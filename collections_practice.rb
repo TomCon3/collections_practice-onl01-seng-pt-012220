@@ -28,7 +28,7 @@ def find_a(num)
 end
 
 def sum_array(num)
-  num.
+  sum = 0
   
   
   
