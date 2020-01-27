@@ -18,7 +18,9 @@ end
 def reverse_array(num)
   num.reverse
 end
-  
+
+def kesha_maker(num)
+  num.each
   
   
   
