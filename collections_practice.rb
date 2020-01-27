@@ -30,6 +30,9 @@ end
 def sum_array(num)
   num.inject(:+)
 end
+
+def add_s(num)
+  num.each
   
   
   
