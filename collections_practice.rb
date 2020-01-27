@@ -32,7 +32,7 @@ def sum_array(num)
 end
 
 def add_s(num)
-  num.each
+  
   
   
   
