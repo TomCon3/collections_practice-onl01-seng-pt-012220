@@ -20,7 +20,8 @@ def reverse_array(num)
 end
 
 def kesha_maker(num)
-  num.each{|item| item[2] = 
+  num.each{|item| item[2] = "$"
+end
   
   
   
