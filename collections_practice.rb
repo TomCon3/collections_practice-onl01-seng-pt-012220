@@ -24,7 +24,7 @@ def kesha_maker(num)
 end
 
 def find_a(num)
-  num.find_all{|word| word
+  num.find_all{|word| word[0] =
   
   
   
