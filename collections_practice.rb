@@ -30,6 +30,9 @@ end
 def sum_array(num)
   sum = 0 
   num.each{|n| n += sum}
+end
+sum
+end
   
   
   
