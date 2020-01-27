@@ -36,7 +36,7 @@ def add_s(num)
     if num[1] == word
       word
     else 
-      
+      word + "s"
   
   
   
