@@ -37,6 +37,9 @@ def add_s(num)
       word
     else 
       word + "s"
+    end
+  end
+end
   
   
   
