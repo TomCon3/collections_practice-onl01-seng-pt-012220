@@ -33,7 +33,10 @@ end
 
 def add_s(num)
   num.collect do |word|
-    if word[1] = 
+    if num[1] == word
+      word
+    else 
+      
   
   
   
