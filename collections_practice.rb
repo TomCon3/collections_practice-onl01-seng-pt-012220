@@ -28,9 +28,7 @@ def find_a(num)
 end
 
 def sum_array(num)
-  sum = 0 
-  num.each{|n| sum+=n}
-sum
+  num.inject(:+)
 end
   
   
