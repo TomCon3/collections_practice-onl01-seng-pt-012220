@@ -20,7 +20,7 @@ def reverse_array(num)
 end
 
 def kesha_maker(num)
-  num.each
+  num.each{
   
   
   
