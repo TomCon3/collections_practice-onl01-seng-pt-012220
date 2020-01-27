@@ -26,6 +26,9 @@ end
 def find_a(num)
   num.find_all{|word| word[0] == "a"}
 end
+
+def sum_array(num)
+  num.
   
   
   
