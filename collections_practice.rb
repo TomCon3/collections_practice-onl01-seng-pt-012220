@@ -22,7 +22,9 @@ end
 def kesha_maker(num)
   num.each{|item| item[2] = "$"}
 end
-  
+
+def find_a(num)
+  num.find_all
   
   
   
